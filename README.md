@@ -1,5 +1,5 @@
 # Demo
 This is my first git repo
 <br>
-Authot - Ayush Shah
+Authot - Ayush (SHAH)
 
